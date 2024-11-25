@@ -1,0 +1,45 @@
+.card{
+width: 200px;
+height: 250px;
+border-radius: 16px;
+background-color: #4a98ec;
+box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.728);
+margin-top: 40px;
+padding: 40px 12px;
+cursor: pointer;
+position: relative;
+overflow: hidden;
+}
+.card:hover{
+    transform: scale(105%);
+}
+.card_name{
+    background-color: rgb(237, 113, 30);
+    text-align: center;
+    color: white;
+    width: 200px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 12px 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    
+}
+.card_circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: rgb(221, 197, 62);
+    position: absolute;
+    top:72px;
+    left: 24px;
+}
+.card_img{
+    position: absolute;
+    z-index: 1;
+    width: 140px;
+    height: 140px;
+    top:74px;
+    left: 30px;
+}
