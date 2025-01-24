@@ -5,7 +5,7 @@ const Button = ({ icon, handleClick }) => {
     <div className="btn_box">
       <button className="btn" onClick={handleClick}>
         {icon}
-      </button>
+      Anterior</button>
       <div className="btn_shadow"></div>
     </div>
   );
