@@ -6,7 +6,7 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 16px;
-  background-color: rgb(251, 173, 159);
+  background-color: #FFFFFF;
 }
 .title_container{
   height: 4rem;
@@ -15,7 +15,7 @@ body {
 }
 .title {
   font-size: 3rem;
-  color: #4a98ec;
+  color: #595959;
   margin-top: 3rem;
   text-align: center;
 }
