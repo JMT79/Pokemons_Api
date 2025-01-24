@@ -14,9 +14,9 @@ overflow: hidden;
     transform: scale(105%);
 }
 .card_name{
-    background-color: rgb(237, 113, 30);
+    background-color: #575757);
     text-align: center;
-    color: white;
+    color: #FFFFFF;
     width: 200px;
     position: absolute;
     top: 0;
