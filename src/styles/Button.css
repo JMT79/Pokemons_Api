@@ -17,6 +17,7 @@
 
 .btn_box {
   width: 100%;
+
   
 }
 .btn_shadow {
@@ -25,6 +26,6 @@
   background-color: rgba(10, 9, 9, 0.665);
   border-radius: 50%;
   position: absolute;
-  top: 4px;
+  top: 50%;
   z-index: -1;
 }
