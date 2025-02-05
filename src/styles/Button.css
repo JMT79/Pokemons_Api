@@ -16,15 +16,6 @@
 }
 
 .btn_box {
-  width: 100%;
+ width: 100%;
 text-align:center;
-
-  
-}
-.btn_shadow {
-  width: 3.8rem;
-  height: 3.8rem;
-  background-color: rgba(10, 9, 9, 0.665);
-  border-radius: 60%;
-  text-align:center;
-}
+}
