@@ -6,7 +6,7 @@ const Button = ({ icon, handleClick }) => {
       <button className="btn" onClick={handleClick}>
         {icon}
      </button>
-      <div className="btn_shadow"></div>
+    
     </div>
   );
 };
