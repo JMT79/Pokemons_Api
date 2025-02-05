@@ -24,7 +24,7 @@ body {
   display: flex;
   width: 400px;
   justify-content: space-between;
-  margin-left: 3%;
+  
 }
 .card_container {
   margin-bottom: 40px;
