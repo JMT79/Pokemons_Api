@@ -1,12 +1,12 @@
 .btn {
   background-color:#575757;
-  width: 60px;
-  height: 60px;
+  width: 3.8rem;
+  height: 3.8rem;
   border-radius: 50%;
   border: none;
   cursor: pointer;
   color: #FFFFFF;
-  font-size: 32px;
+  font-size: 2rem;
 }
 .btn:hover {
   background-color: #575757;
@@ -16,7 +16,7 @@
 }
 
 .btn_box {
-  width: 100px;
+  width: 100%;
   position: relative;
 }
 .btn_shadow {
