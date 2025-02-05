@@ -26,9 +26,5 @@ text-align:center;
   height: 3.8rem;
   background-color: rgba(10, 9, 9, 0.665);
   border-radius: 60%;
-  position:absolute;
-top:60%;
-left:40%
-
-  z-index: -1;
+  text-align:center;
 }
